@@ -1,0 +1,53 @@
+.cabecalho {
+    width: 100%;
+    display: flex;
+
+}
+.cabecalho-container-logo {
+/* largura*/
+width: 10%;
+/*cor de fundo*/
+/*background-color: red*/
+display: flex;
+justify-content: center;
+
+}
+.cabecalho-container-logo img{
+    width: 40px;
+}
+.cabecalho-container-informacoes {
+    /* largura*/
+width: 90%;
+/*cor de fundo*/
+/*background-color: red*/
+display: flex;
+justify-content: right;
+}
+
+.navegacao {
+    /* largura*/
+    width: 100%;
+    border: 1px solid rgb(0, 110, 255);
+    /*cor de fundo*/
+    /*background-color: red*/
+}
+.conteudo-principal {
+    /* largura*/
+    width: 100%;
+    /*altura*/
+    height: 500px;
+    /*borda*/
+    border: 1px solid rgb(255, 0, 179);
+    /*cor de fundo*/
+    /*background-color: red*/
+}
+.rodape {
+     /* largura*/
+     width: 100%;
+     /*altura*/
+     height: 60px;
+     /*borda*/
+     border: 1px solid rgb(179, 196, 34);
+     /*cor de fundo*/
+     /*background-color: red*/
+}
