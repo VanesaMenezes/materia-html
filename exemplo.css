@@ -31,6 +31,14 @@ justify-content: right;
     /*cor de fundo*/
     /*background-color: red*/
 }
+.navegacao ul {
+    display: flex;
+    justify-content: right;
+}
+.navegacao ul li {
+    margin: 0px 15px 0px 15px;
+}
+
 .conteudo-principal {
     /* largura*/
     width: 100%;
